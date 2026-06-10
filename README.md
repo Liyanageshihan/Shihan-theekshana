@@ -1,6 +1,8 @@
-Hi, I'm Shihan Theekshana 👋
-E.tech graduate, learning programming for BIT degree
-current focus: Python,Java,Web Dev
-Goal: 1.5L It job
+Hi, I'm Shihan Theekshana 👋 
+E.tech A/L graduate, learning programming for BIT degree
+Current focus: Python, Git, Problem Solving
+Learning in Public 🚀
 
-💗Learning in Public 💗
+**Projects:**
+1. Number Guess Game - Python basics
+2. Grade Calculator - If-else logic
